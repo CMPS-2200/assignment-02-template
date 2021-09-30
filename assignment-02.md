@@ -82,16 +82,16 @@ and push to your github repository.
 
 
 3. Now that you have some practice solving recurrences, let's work on
-  implementing some algorithms. In lecture we discussed a divide and
-  conquer algorithm for integer multiplication. This algorithm takes
-  as input two $n$-bit strings $x = \langle x_L, x_R\rangle$ and
-  $y=\langle y_L, y_R\rangle$ and computes the product $xy$ by using
-  the fact that $xy = 2^{n}x_Ly_L + 2^{n/2}(x_Ly_R+x_Ry_L) +
-  x_Ry_R.$ Write the algorithm specification in SPARC. Then, use the
-  stub functions in `main.py` to implement two algorithms for integer
-  multiplication: a divide and conquer algorithm that runs in
-  quadratic time, and the Karatsaba-Ofman algorithm running in
-  subquadratic time. Then test the empirical running times across a
-  variety of inputs to test whether your code scales in the manner
-  described by the asymptotic runtime.
+   implementing some algorithms. In lecture we discussed a divide and
+   conquer algorithm for integer multiplication. This algorithm takes as
+   input two $n$-bit strings $x = \langle x_L, x_R\rangle$ and $y=\langle
+   y_L, y_R\rangle$ and computes the product $xy$ by using the fact that
+   $xy = 2^{n}x_Ly_L + 2^{n/2}(x_Ly_R+x_Ry_L) + x_Ry_R.$ 
+
+   Use the stub functions in `main.py` to implement two algorithms for
+   integer multiplication: a divide and conquer algorithm that runs in
+   quadratic time, and the Karatsaba-Ofman algorithm running in
+   subquadratic time. Then test the empirical running times across a
+   variety of inputs to test whether your code scales in the manner
+   described by the asymptotic runtime.
 
