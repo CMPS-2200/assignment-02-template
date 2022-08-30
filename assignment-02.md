@@ -77,6 +77,8 @@ and push to your github repository.
     .  
 
     i) $T(n)=T(\sqrt{n})+1$
+      
+      For this recurrence, you may assume that $n$ is a power of 2 and that the recurrence will end when $n = 2$. 
 
     **Enter answers in `answers.md`**
 
