@@ -11,55 +11,78 @@ and push to your github repository.
 
 
 1. Derive asymptotic upper bounds for each recurrence below.
-  * $T(n)=2T(n/3)+1$
-.  
-.  
-.  
-.  
-.  
-  * $T(n)=5T(n/4)+n$
-.  
-.  
-.  
-.  
-.  
-  * $T(n)=7T(n/7)+n$
-.  
-.  
-.  
-.  
-.  
-  * $T(n)=9T(n/3)+n^2$
-.  
-.  
-.  
-.  
-.  
-  * $T(n)=8T(n/2)+n^3$
-.  
-.  
-.  
-.  
-.  
-  * $T(n)=49T(n/25)+n^{3/2}\log n$
-.  
-.  
-.  
-.  
-.  
-  * $T(n)=T(n-1)+2$
-.  
-.  
-.  
-.  
-.  
-  * $T(n)= T(n-1)+n^c$, with $c\geq 1$
-.  
-.  
-.  
-.  
-.  
-  * $T(n)=T(\sqrt{n})+1$
+
+    a) $T(n)=2T(n/3)+1$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
+
+    b) $T(n)=5T(n/4)+n$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
+ 
+    c) $T(n)=7T(n/7)+n$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
+ 
+    d) $T(n)=9T(n/3)+n^2$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
+ 
+    e) $T(n)=8T(n/2)+n^3$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
+
+    f) $T(n)=49T(n/25)+n^{3/2}\log n$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
+
+    g) $T(n)=T(n-1)+2$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
+
+    h) $T(n)= T(n-1)+n^c$, with $c\geq 1$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
+
+    i) $T(n)=T(\sqrt{n})+1$
+
+    **Enter your answer in answers.md**
+
+    .  
+    .  
+    .  
 
 
 2. Suppose that for a given task you are choosing between the following three algorithms:
@@ -80,7 +103,8 @@ and push to your github repository.
     What are the asymptotic running times of each of these algorithms?
     Which algorithm would you choose?
 
-
+    **Enter your answer in answers.md**
+    
 3. Now that you have some practice solving recurrences, let's work on
    implementing some algorithms. In lecture we discussed a divide and
    conquer algorithm for integer multiplication. This algorithm takes as
