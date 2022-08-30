@@ -14,7 +14,7 @@ and push to your github repository.
 
     a) $T(n)=2T(n/3)+1$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -22,7 +22,7 @@ and push to your github repository.
 
     b) $T(n)=5T(n/4)+n$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -30,7 +30,7 @@ and push to your github repository.
  
     c) $T(n)=7T(n/7)+n$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -38,7 +38,7 @@ and push to your github repository.
  
     d) $T(n)=9T(n/3)+n^2$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -46,7 +46,7 @@ and push to your github repository.
  
     e) $T(n)=8T(n/2)+n^3$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -54,7 +54,7 @@ and push to your github repository.
 
     f) $T(n)=49T(n/25)+n^{3/2}\log n$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -62,7 +62,7 @@ and push to your github repository.
 
     g) $T(n)=T(n-1)+2$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -70,7 +70,7 @@ and push to your github repository.
 
     h) $T(n)= T(n-1)+n^c$, with $c\geq 1$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -78,7 +78,7 @@ and push to your github repository.
 
     i) $T(n)=T(\sqrt{n})+1$
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
 
     .  
     .  
@@ -103,7 +103,7 @@ and push to your github repository.
     What are the asymptotic running times of each of these algorithms?
     Which algorithm would you choose?
 
-    **Enter your answer in answers.md**
+    **Enter answers in `answers.md`**
     
 3. Now that you have some practice solving recurrences, let's work on
    implementing some algorithms. In lecture we discussed a divide and
