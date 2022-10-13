@@ -1,13 +1,11 @@
 # CMPS 2200 Assignment 2
 
-**Name:**_________________________
+In this assignment we'll work on applying the methods we've learned to analyze recurrences, and also see their behavior in practice. 
 
-In this assignment we'll work on applying the methods we've learned to analyze recurrences, and also see their behavior
-in practice. As with previous
-assignments, some of of your answers will go in `main.py`.. You
-should feel free to edit this file with your answers; for handwritten
-work please scan your work and submit a PDF titled `assignment-02.pdf`
-and push to your github repository.
+As with previous assignments, some of of your answers will go in `main.py`.
+Please add your written answers to `answers.md` which you can convert to a PDF
+using `convert.sh`. Alternatively, you may scan and upload written answers
+to a file names `answers.pdf`.
 
 
 1. Derive asymptotic upper bounds for each recurrence below.
