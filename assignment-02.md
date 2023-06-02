@@ -8,7 +8,7 @@ using `convert.sh`. Alternatively, you may scan and upload written answers
 to a file names `answers.pdf`.
 
 
-1. Derive asymptotic upper bounds for each recurrence below.
+1. Derive asymptotic upper bounds for each recurrence below. (2 pts ea.)
 
     a) $T(n)=2T(n/3)+1$
 
@@ -100,8 +100,8 @@ to a file names `answers.pdf`.
       each subproblem, and then combining the solutions in $O(n^2)$
       time.
 
-    What are the asymptotic running times of each of these algorithms?
-    Which algorithm would you choose?
+    What are the asymptotic running times of each of these algorithms? (3 pts ea.)
+    Which algorithm would you choose? (3 pts)
 
     **Enter answers in `answers.md`**
     
@@ -117,5 +117,5 @@ to a file names `answers.pdf`.
    quadratic time, and the Karatsaba-Ofman algorithm running in
    subquadratic time. Then test the empirical running times across a
    variety of inputs to test whether your code scales in the manner
-   described by the asymptotic runtime.
+   described by the asymptotic runtime. (20 pts)
 
